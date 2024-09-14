@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#nav{
+    background-color: #2B2B2B;
+    
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#logo-1{
+    height: 50px;
+}
+.link{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 100px;
+}
+#nav-1{
+
+    
+    height: 30px;
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+#nav-2{
+
+    height: 30px;
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#main{
+    margin-top:20px;
+    display: flex;
+    margin-left: 50px;
+}
+#input{
+    width: 950px;
+    padding: 20px 5px;
+    font-size: 18px;
+    padding-left: 10px;
+    background-color: whitesmoke;
+    
+}
+#submit{
+    width: 200px;
+    padding: 12px 24px;
+    background-color: #09757a;
+    color: white;
+    font-size: 18px;
+}
+#main-1{
+    width: 100%;
+    height: 570px;
+    
+    display: flex;
+}
+#line{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    height:500px ;
+    width: 900px;
+    
+    justify-content: space-evenly;
+    margin-left: 50px;
+    padding-left: 30px;
+    padding-top: 10px;
+    background-image: url(https://img1.wsimg.com/cdnassets/transform/91933207-98f3-4341-a1f1-449e678536f5/row-mrq-bl-landscape);
+    background-size: cover;
+    border-radius: 20px;
+
+}
+.but{
+    padding: 12px 24px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    width: 200px;
+    border-radius: 5px;
+}
+h1{
+    font-size: 50px;
+}
+
+    
+
+p{
+    font-size: 18px;
+}
+
+#main-2{
+    margin-top: 30px;
+    height: 500px;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 350px;
+    
+    background-color:rgb(253, 233, 219);
+    border-radius: 20px;
+    margin-left: 50px;
+    
+    
+    
+}
+#main-3{
+    height: 800px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+#logo{
+    height: 400px;
+}
+#main-4{
+    height: 700px;
+    
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+#sub{
+    padding: 12px 24px;
+    width: 200px;
+    background-color: white;
+    font-size: 18px;
+    font-weight: 20px;
+    border-radius: 5px;
+
+}
+
+#main-5{
+    height: 450px;
+    width: 100%;
+    background-color: #c3dbf3;
+    background-image:url(https://img1.wsimg.com/cdn/Image/All/All/2/All/8b9985c6-8a6a-438c-8962-68fdb4e312ac/mrq-Guide-IN-PK-Suraiya-desktop.jpg);
+    background-size: cover;
+    
+    
+}
+#line-2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    height: 400px;
+    position: absolute;
+    right: 50px;
+}
+.but:hover{
+    cursor: pointer;
+    
+}
+#sub:hover{
+    cursor: pointer;
+}
